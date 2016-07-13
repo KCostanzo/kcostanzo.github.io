@@ -2163,8 +2163,12 @@
 			}
 
 			#main > section.one {
+				text-shadow: white;
+				color: white;
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/bay.jpg");
+			/*	opacity: .7;*/
+				font-weight: 600;
 			}
 
 			#main > section.two {
